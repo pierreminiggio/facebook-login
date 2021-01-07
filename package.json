@@ -1,0 +1,19 @@
+{
+  "name": "@pierreminiggio/facebook-login",
+  "version": "1.0.0",
+  "description": "Scrapes Facebook Groups",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pierreminiggio/facebook-login.git"
+  },
+  "author": "Pierre MINIGGIO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pierreminiggio/facebook-login/issues"
+  },
+  "homepage": "https://github.com/pierreminiggio/facebook-login#readme",
+  "dependencies": {}
+}
